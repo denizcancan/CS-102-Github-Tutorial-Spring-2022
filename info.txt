@@ -1,2 +1,73 @@
 Deniz Can Özdemir - 22003854 - https://github.com/denizcancan
 Favourite Video Game: Skyrim
+PS C:\GitKraken\CS-102-Github-Tutorial-Spring-2022> git log
+commit f398707bee581686bc106608370862d80b4302f8 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4a8bd70 a17ef06
+Author: Deniz Can Özdemir <91689352+denizcancan@users.noreply.github.com>
+Date:   Fri Feb 11 10:53:41 2022 +0300
+
+    Merge pull request #1 from denizcancan/new_information
+
+    Favourite Video Game entitled
+
+commit a17ef06ac7befad949180f5fc3629ab70e4b83e4 (origin/new_information, new_information)
+Author: denizcancan <dcan474@gmail.com>
+Date:   Fri Feb 11 10:44:09 2022 +0300
+
+    Favourite Video Game entitled
+:...skipping...
+commit f398707bee581686bc106608370862d80b4302f8 (HEAD -> main, origin/main, origin/HEAD) 
+Merge: 4a8bd70 a17ef06
+Author: Deniz Can Özdemir <91689352+denizcancan@users.noreply.github.com>
+Date:   Fri Feb 11 10:53:41 2022 +0300
+
+    Merge pull request #1 from denizcancan/new_information
+    
+    Favourite Video Game entitled
+
+commit a17ef06ac7befad949180f5fc3629ab70e4b83e4 (origin/new_information, new_information)
+Author: denizcancan <dcan474@gmail.com>
+Date:   Fri Feb 11 10:44:09 2022 +0300
+
+    Favourite Video Game entitled
+
+commit 4a8bd70e37f3d1b0e6e1ad88761dd1882d2d51a4
+Author: denizcancan <dcan474@gmail.com>
+Date:   Thu Feb 10 21:28:34 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit f03f42a9745f008810d8f287c57b3557b0d0e929
+Author: Deniz Can Özdemir <91689352+denizcancan@users.noreply.github.com>
+Date:   Thu Feb 10 10:23:41 2022 +0300
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
